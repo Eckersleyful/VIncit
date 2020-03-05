@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="iot_db" uuid="80dcf187-7901-4f27-ac51-bef6bcf324c4">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:F:\JavaProjects\VincitAssignment\src\main\webapp\java\sql\litedb\iot_db.sqlite</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://H:/Ladatut tiedostot/sqlite-jdbc-3.30.1.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
